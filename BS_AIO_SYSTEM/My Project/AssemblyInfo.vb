@@ -1,4 +1,5 @@
-﻿Imports System
+﻿Imports System.Resources
+Imports System
 Imports System.Reflection
 Imports System.Runtime.InteropServices
 
@@ -9,13 +10,13 @@ Imports System.Runtime.InteropServices
 ' Vérifiez les valeurs des attributs de l'assembly
 
 <Assembly: AssemblyTitle("BS_AIO_SYSTEM")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
+<Assembly: AssemblyDescription("Setup du pack Beeshop All In One")>
+<Assembly: AssemblyCompany("beeshop CI")>
 <Assembly: AssemblyProduct("BS_AIO_SYSTEM")>
 <Assembly: AssemblyCopyright("Copyright ©  2019")>
-<Assembly: AssemblyTrademark("")>
+<Assembly: AssemblyTrademark("GB")>
 
-<Assembly: ComVisible(False)>
+<Assembly: ComVisible(True)>
 
 'Le GUID suivant est pour l'ID de la typelib si ce projet est exposé à COM
 <Assembly: Guid("784f615a-c7fc-452c-8f9d-bc3ced8a186e")>
@@ -31,5 +32,6 @@ Imports System.Runtime.InteropServices
 ' en utilisant '*', comme indiqué ci-dessous :
 ' <Assembly: AssemblyVersion("1.0.*")>
 
-<Assembly: AssemblyVersion("1.0.0.0")>
-<Assembly: AssemblyFileVersion("1.0.0.0")>
+<Assembly: AssemblyVersion("1.0.1.9")>
+<Assembly: AssemblyFileVersion("1.0.0.6")>
+<Assembly: NeutralResourcesLanguage("fr-CI")>

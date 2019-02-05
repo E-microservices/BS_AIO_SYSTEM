@@ -117,26 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="SystemGestion" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\SystemGestion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="parametre" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\parametre.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="emploi-commercial1-5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\emploi-commercial1-5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="SUper" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\SUper.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="logo_rond" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\logo_rond.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Logo_oeil copie" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Logo_oeil copie.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="SystemGestion1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\SystemGestion1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
 </root>
